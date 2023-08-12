@@ -1,7 +1,9 @@
+/* Get padding on main > section*/
 main > section {
     padding: 5rem;
 }
 
+/* change the text color to #ffffff and text align to center*/
 footer {
     color: #ffffff;
     text-align: center;
